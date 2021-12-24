@@ -1,0 +1,11 @@
+.pending{
+    color: gray;
+}
+
+.CorrectWord{
+    color: rgb(105, 218, 105);
+}
+
+.Incorrect{
+    color: red;
+}
