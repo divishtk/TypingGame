@@ -13,6 +13,9 @@ export class AppComponent {
   flag=false;
 
 
+
+
+  //for success box hidden
   onTypeEvent(event:any){
 
     const inputWords=event.target.value;
